@@ -23,7 +23,7 @@ Authentication: Firebase Google Auth
 AI Engine: Google Gemini API
 
 📦Installation & Setup
-Clone the repo: git clone [https://github.com/your-username/EquiSight_AI.git](https://github.com/your-username/EquiSight_AI.git)
+Clone the repo: git clone (https://github.com/hyacinth3313/EquiSight_AI)
 
 Install dependencies: pip install -r requirements.txt
 
